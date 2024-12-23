@@ -1,0 +1,42 @@
+h3{
+    color: red;
+}
+h1,span{
+    color: aqua;
+}
+.className{
+ color: aquamarine;   
+}
+#idName{
+    color: blueviolet;
+}
+a[href="www.google.com"]{
+    color: violet;
+}
+a:hover{
+    color: green;
+}
+p::first-line{
+    color: brown;
+}
+article>h5{
+    color: rgb(212, 205, 255);
+}
+h1+p{
+    background-color: black;
+}
+body h1+p .special{
+    background-color: brown;
+}
+#heading{
+    color: bisque;
+}
+#one{
+    color: aqua;
+}
+li[class="a"]{
+    color: red;
+}
+*{
+    list-style-type: none;
+}
